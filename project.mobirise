@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "student portal",
-    "currentPage": "page3.html",
+    "currentPage": "main_page.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -144,7 +144,7 @@
           },
           "title": "Selamat Datang Ke Portal Kolej Komuniti Ampang<br><br>",
           "text": "SEJARAH PENUBUHAN&nbsp;<br><br>Bangunan Komuniti Ampang telah dibeli pada tahun 2009 tetapi kerja-kerja pengubahsuaian dan pembaikan bangunan dijalankan dalam tempoh itu. Maka, Kolej Komuniti Ampang telah beroperasi di kampus sementara iaitu di premis Kolej Komuniti Kuala Langat, bermula 2 Julai 2013. Kolej ini mula beroperasi di bangunan sendiri yang terletak di Pusat Bandar Bukit Indah, Ampang, Selangor pada tanggal 2 Ogos 2015. Terdapat dua program diploma dan satu program sijil yang ditawarkan di sini iaitu Diploma Teknologi Telekomunikasi, Diploma in Mobile Technology dan Sijil Teknologi Telekomunikasi.<br><br>Penubuhan Kolej Komuniti Ampang adalah bertujuan untuk memenuhi kehendak sosial dan keperluan tenaga manusia selaras dengan dasar kerajaan untuk melahirkan lebih ramai golongan pekerja mahir. Bagi golongan setempat pula, kolej ini berperanan memberi pendedahan kepada mereka dengan kursus-kursus pendek yang ditawarkan. Lulusan Kolej Komuniti berpeluang untuk mengisi keperluan tenaga kerja industri dalam bidang-bidang kemahiran yang berkaitan atau membuka perniagaan sendiri.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://arivins.hithub.io/kkstudent\" data-toolbar=\"-mbrBtnMove\">PORTAL PELAJAR&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://arivins.hithub.io/kkstaff\" data-toolbar=\"-mbrBtnMove\">PORTAL STAFF</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://arivins.hithub.io/kktetamu\" data-toolbar=\"-mbrBtnMove\">PORTAL TETAMU</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://arivins.hithub.io/kkstudent\" data-toolbar=\"-mbrBtnMove\">PORTAL PELAJAR&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://arivins.hithub.io/kkstaff\" data-toolbar=\"-mbrBtnMove\">PORTAL STAFF</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://arivins.github.io/kktetamu/\" data-toolbar=\"-mbrBtnMove\">PORTAL TETAMU</a> ",
           "_tags": [
             "Theme"
           ],
