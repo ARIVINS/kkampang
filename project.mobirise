@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "student portal",
-    "currentPage": "page5.html",
+    "currentPage": "main_page.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,8 +22,8 @@
       }
     },
     "versionFirst": "4.3.2",
-    "uniqCompNum": 70,
-    "versionPublish": "4.5.2",
+    "uniqCompNum": 82,
+    "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -100,7 +100,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">GAMBAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#testimonials3-s\" aria-expanded=\"false\">VISI @ MISI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#form1-q\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">HALAM UTAMA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">GAMBAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#testimonials3-s\" aria-expanded=\"false\">VISI @ MISI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#form1-q\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\">SEJARAH PENUBUHAN&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -126,27 +126,30 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showTitle": false,
+            "showText": false,
             "showButtons": true,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "center",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/jnLSYfObARA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=jnLSYfObARA",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
           "title": "Selamat Datang Ke Portal Kolej Komuniti Ampang<br><br>",
-          "text": "SEJARAH PENUBUHAN&nbsp;<br><br>Bangunan Komuniti Ampang telah dibeli pada tahun 2009 tetapi kerja-kerja pengubahsuaian dan pembaikan bangunan dijalankan dalam tempoh itu. Maka, Kolej Komuniti Ampang telah beroperasi di kampus sementara iaitu di premis Kolej Komuniti Kuala Langat, bermula 2 Julai 2013. Kolej ini mula beroperasi di bangunan sendiri yang terletak di Pusat Bandar Bukit Indah, Ampang, Selangor pada tanggal 2 Ogos 2015. Terdapat dua program diploma dan satu program sijil yang ditawarkan di sini iaitu Diploma Teknologi Telekomunikasi, Diploma in Mobile Technology dan Sijil Teknologi Telekomunikasi.<br><br>Penubuhan Kolej Komuniti Ampang adalah bertujuan untuk memenuhi kehendak sosial dan keperluan tenaga manusia selaras dengan dasar kerajaan untuk melahirkan lebih ramai golongan pekerja mahir. Bagi golongan setempat pula, kolej ini berperanan memberi pendedahan kepada mereka dengan kursus-kursus pendek yang ditawarkan. Lulusan Kolej Komuniti berpeluang untuk mengisi keperluan tenaga kerja industri dalam bidang-bidang kemahiran yang berkaitan atau membuka perniagaan sendiri.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">PORTAL PELAJAR&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">PORTAL TETAMU</a> ",
+          "text": "SEJARAH PENUBUHAN&nbsp;<br><br>Bangunan Komuniti Ampang telah dibeli pada tahun 2009 tetapi kerja-kerja pengubahsuaian dan pembaikan bangunan dijalankan dalam tempoh itu. Maka, Kolej Komuniti Ampang telah beroperasi di kampus sementara iaitu di premis Kolej Komuniti Kuala Langat, bermula 2 Julai 2013. Kolej ini mula beroperasi di bangunan sendiri yang terletak di Pusat Bandar Bukit Indah, Ampang, Selangor pada tanggal 2 Ogos 2015. Terdapat dua program diploma dan satu program sijil yang ditawarkan di sini iaitu Diploma Teknologi Telekomunikasi, Diploma in Mobile Technology dan Sijil Teknologi Telekomunikasi.<br><br>Penubuhan Kolej Komuniti Ampang adalah bertujuan untuk memenuhi kehendak sosial dan keperluan tenaga manusia selaras dengan dasar kerajaan untuk melahirkan lebih ramai golongan pekerja mahir. Bagi golongan setempat pula, kolej ini berperanan memberi pendedahan kepada mereka dengan kursus-kursus pendek yang ditawarkan. Lulusan Kolej Komuniti berpeluang untuk mengisi keperluan tenaga kerja industri dalam bidang-bidang kemahiran yang berka<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">PORTAL PELAJAR&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">PORTAL AWAM</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"assets/files/carta organisasi 24 okt 2017.pdf\" data-toolbar=\"-mbrBtnMove\">PORTAL STAFF</a> ",
           "_tags": [
             "Theme"
           ],
@@ -212,7 +215,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "VISI @ MISI",
-        "order": 9
+        "order": 11
       },
       "components": [
         {
@@ -425,7 +428,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "HUBUNGI&nbsp;",
-        "order": 10
+        "order": 12
       },
       "components": [
         {
@@ -615,7 +618,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "PORTAL_PELAJAR",
-        "order": 8
+        "order": 10
       },
       "components": [
         {
@@ -714,7 +717,7 @@
             "showButtons": true,
             "paddingTop": "3",
             "paddingBottom": "2",
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -791,15 +794,15 @@
           "title5": "Kalendar Akademik",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
+          "title6": "ISTUDENT@CC",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"page11.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"page6.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"page7.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"page11.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"page12.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://online.jpkk.edu.my/istudent/index.php\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
           "_tags": [
             "Theme"
           ],
@@ -849,7 +852,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "jadual_kelas_dmt",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -1044,8 +1047,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1096,7 +1099,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "jadual_kelas_stt",
-        "order": 6
+        "order": 8
       },
       "components": [
         {
@@ -1291,8 +1294,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1343,7 +1346,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "jadual_kelas_dtt",
-        "order": 5
+        "order": 7
       },
       "components": [
         {
@@ -1538,8 +1541,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1590,7 +1593,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "PORTAL_TETAMU",
-        "order": 4
+        "order": 6
       },
       "components": [
         {
@@ -1655,7 +1658,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">GAMBAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#testimonials3-s\" aria-expanded=\"false\">VISI @ MISI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#form1-q\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">HALAM UTAMA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">GAMBAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#testimonials3-s\" aria-expanded=\"false\">VISI @ MISI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#form1-q\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\">SEJARAH PENUBUHAN&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1680,34 +1683,111 @@
           "_anchor": "menu-1m"
         },
         {
-          "_inherit": "header1",
           "_params": {
-            "showTitle": true,
-            "showText": true,
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
             "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "right",
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#000",
+            "overlay": false,
+            "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "VIDEO BACKGROUND",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Permohonan Kemasukan Sesi Mac 2018",
+          "subtitle1": "",
+          "caption1": "Permohonan Kemasukan ke Kolej Komuniti bagi Ambilan Mac 2018 telah dibuka atau hubungi kami @ Kolej Komuniti HQ di talian 03-8888 2633 (waktu pejabat 8.00 pagi – 5.00 petang) untuk maklumat lanjut.",
+          "title2": "Semak Keputusan",
+          "subtitle2": "",
+          "caption2": "Semakan Keputusan Permohonan Kemasukan ke Kolej Komuniti bagi Ambilan Mac 2018 boleh disemak pada 15 Januari 2018 mulai jam 8.00 pagi atau hubungi kami @ Kolej Komuniti HQ di talian 03-8888 2633 (waktu pejabat 8.00 pagi – 5.00 petang).",
+          "title3": "MAKLUMAT KURSUS DAN PENGAJIAN",
+          "subtitle3": "",
+          "caption3": "<br>Kolej Komuniti menawarkan kursus dan pengajian&nbsp;",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://online.jpkk.edu.my/eborang/default_xie.asp\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK MOHON</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://online.jpkk.edu.my/esemakan/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK SEMAK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://www.jpkk.edu.my/v2/index.php?option=com_content&amp;view=article&amp;id=183\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">KLIK&nbsp;</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-1p"
+          "_name": "features1",
+          "_anchor": "features1-29",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
         },
         {
           "_params": {
@@ -1762,7 +1842,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "GAMBAR",
-        "order": 3
+        "order": 5
       },
       "components": [
         {
@@ -1827,7 +1907,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">GAMBAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#testimonials3-s\" aria-expanded=\"false\">VISI @ MISI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#form1-q\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">HALAM UTAMA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">GAMBAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#testimonials3-s\" aria-expanded=\"false\">VISI @ MISI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#form1-q\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\">SEJARAH PENUBUHAN&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2044,32 +2124,17 @@
         }
       ]
     },
-    "page11.html": {
+    "page13.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "Jadual_peperiksaan",
+        "title": "sejarah_penubuhan",
+        "meta_descr": "muka depan untuk studen portal (kolej komuniti ampang)\n",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
         "order": 2
       },
       "components": [
         {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#282828",
-            "fontSize": "1.2",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"main_page.html#header1-d\" aria-expanded=\"false\">MENU UTAMA&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -2087,10 +2152,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2118,13 +2183,27 @@
               "color": "#c0a375!important"
             }
           },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">HALAM UTAMA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">GAMBAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#testimonials3-s\" aria-expanded=\"false\">VISI @ MISI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#form1-q\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\">SEJARAH PENUBUHAN&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/student-portal-icon-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/udjr3vsa-400x400-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "main_page.html",
+              "link": "main_page.html#header1-d",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2134,75 +2213,78 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PORTAL&nbsp;<br>KOLEJ KOMUNITI AMPANG&nbsp;<br></a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1u"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1y"
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Selamat Datang Ke Portal Kolej Komuniti Ampang<br><br>",
+          "text": "SEJARAH PENUBUHAN KOLEJ KOMUNITI AMPANG<br><br>Bangunan Komuniti Ampang telah dibeli pada tahun 2009 tetapi kerja-kerja pengubahsuaian dan pembaikan bangunan dijalankan dalam tempoh itu. Maka, Kolej Komuniti Ampang telah beroperasi di kampus sementara iaitu di premis Kolej Komuniti Kuala Langat, bermula 2 Julai 2013. Kolej ini mula beroperasi di bangunan sendiri yang terletak di Pusat Bandar Bukit Indah, Ampang, Selangor pada tanggal 2 Ogos 2015. Terdapat dua program diploma dan satu program sijil yang ditawarkan di sini iaitu Diploma Teknologi Telekomunikasi, Diploma in Mobile Technology dan Sijil Teknologi Telekomunikasi.<br><br>Penubuhan Kolej Komuniti Ampang adalah bertujuan untuk memenuhi kehendak sosial dan keperluan tenaga manusia selaras dengan dasar kerajaan untuk melahirkan lebih ramai golongan pekerja mahir. Bagi golongan setempat pula, kolej ini berperanan memberi pendedahan kepada mereka dengan kursus-kursus pendek yang ditawarkan. Lulusan Kolej Komuniti berpeluang untuk mengisi keperluan tenaga kerja industri dalam bidang-bidang kemahiran yang berkaitan atau membuka perniagaan sendiri.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">PORTAL PELAJAR&nbsp;</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"page9.html\" data-toolbar=\"-mbrBtnMove\">PORTAL TETAMU</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          },
+          "_anchor": "header1-1z"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayColor": "#3C3C3C",
+            "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/udjr3vsa-400x400-128x128.jpg",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>LOT PT 3890,<br>MEDAN BUKIT INDAH,<br>PUSAT BANDAR BUKIT INDAH,<br>6800 AMPANG SELANGOR.<br>",
-          "text2": "<strong>Contacts</strong><br>Email:<br>kolej_komunit_ampang@gmail.com<br>Phone: 03-42800201<br>Fax: 03-42804175<br>",
-          "text3": "",
+          "text": "Copyright (c) 2016 ARIVINS A/L V SANTHIRAN.&nbsp;",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1v"
+          "_name": "footer1",
+          "_anchor": "footer1-21"
         }
       ]
     },
-    "page12.html": {
+    "page14.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
-        "title": "Kalendar_Akademik",
+        "meta_descr": "Web Page Builder Description",
+        "title": "PORTAL_STAFF",
         "order": 1
       },
       "components": [
         {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#282828",
-            "fontSize": "1.2",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"main_page.html#header1-d\" aria-expanded=\"false\">MENU UTAMA&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -2220,10 +2302,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.2rem"
+              "font-size": "1.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.300rem"
+              "font-size": "1.191rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2251,13 +2333,27 @@
               "color": "#c0a375!important"
             }
           },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "1.1",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">HALAM UTAMA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page10.html#gallery3-1t\" aria-expanded=\"false\">GAMBAR</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html#testimonials3-s\" aria-expanded=\"false\">VISI @ MISI</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html#form1-q\" aria-expanded=\"false\">HUBUNGI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page13.html\" aria-expanded=\"false\">SEJARAH PENUBUHAN&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/student-portal-icon-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/udjr3vsa-400x400-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "main_page.html",
+              "link": "main_page.html#header1-d",
               "title": "",
               "linkInNewWindow": false
             },
@@ -2267,14 +2363,338 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PORTAL&nbsp;<br>KOLEJ KOMUNITI AMPANG&nbsp;<br></a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-1w"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-22"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-26",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-27",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-28",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          }
         },
         {
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -2282,31 +2702,41 @@
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/udjr3vsa-400x400-128x128.jpg",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Kolej Komuniti Ampang\nLot Pt 3890, 25 & 27, Jalan Bukit Indah 4, Taman Bukit Indah, 68000 Ampang, Selangor",
+              "placeId": "ChIJ_4Cxhh83zDEREBkv1Z-8BaY",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>LOT PT 3890,<br>MEDAN BUKIT INDAH,<br>PUSAT BANDAR BUKIT INDAH,<br>6800 AMPANG SELANGOR.<br>",
-          "text2": "<strong>Contacts</strong><br>Email:<br>kolej_komunit_ampang@gmail.com<br>Phone: 03-42800201<br>Fax: 03-42804175<br>",
-          "text3": "",
+          "text1": "<strong>Address</strong><br>LOT PT 3890,<br> MEDAN BUKIT INDAH,<br>PUSAT BANDAR BUKIT INDAH,<br>6800 AMPANG SELANGOR.<br><br><br>\n<strong>Contacts</strong><br>\nEmail: kolej_komunit_ampang@gmail.com<br>\nPhone: 03-42800201<br>\nFax: 03-42804175",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"http://kkampang.jpkk.edu.my/\">Website Kolej Komuniti Ampang</a></li><li><a class=\"text-white\" href=\"https://www.facebook.com/kkampang/\">Facebook&nbsp;Kolej Komuniti Ampang</a></li><li><a href=\"https://twitter.com/kk_ampang/status/829193917040046081?lang=en\" class=\"text-white\">Twitter Kolej Komuniti Ampang</a></li></ul>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts1",
-          "_anchor": "contacts1-1x"
+          "_name": "contacts2",
+          "_anchor": "contacts2-23"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 ARIVINS A/L V SANTHIRAN.&nbsp;",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-24"
         }
       ]
     }
